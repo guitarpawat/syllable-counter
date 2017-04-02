@@ -1,0 +1,2 @@
+# Syllable Counter
+This syllable counter counts syllable from the input words there are two classes that implements SyllableCounter class that do the same thing but in different design. First, SimpleSyllableCounter class is non OO-design state machine (use switch-case for states). In the second class use OO-design state machine by creating subclasses that extends AbstractState for all state class.
